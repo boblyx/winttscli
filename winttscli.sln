@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winttscli", "winttscli\winttscli.csproj", "{15DE7569-C743-4B46-9E62-4F3F00FAEE9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15DE7569-C743-4B46-9E62-4F3F00FAEE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DE7569-C743-4B46-9E62-4F3F00FAEE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DE7569-C743-4B46-9E62-4F3F00FAEE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DE7569-C743-4B46-9E62-4F3F00FAEE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {954244F1-88DE-4EBA-A895-E552D1350969}
+	EndGlobalSection
+EndGlobal
